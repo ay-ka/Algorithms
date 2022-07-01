@@ -218,12 +218,13 @@ python src/Bellman-Ford/main.py --start ?
 
 <b>2- for BFS-DFS, SEARCH, SORT</b>
 
-*** ALGORITHMNAME
+<b> *** ALGORITHMNAME
 <ol type="1">
   <li>for Search: BINARY, FIBO</li>
   <li>for Sort: MERGE, QUICK, HEAP</li>
   <li>BFS-DFS: BFS, DFS</li>
 </ol>
+</b>
 
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
