@@ -213,7 +213,7 @@ for example for Bellman-Ford
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/Astar/main.py --start ?
+python src/Bellman-Ford/main.py --start ?
 ```
 
 <b>2- for BFS-DFS, SEARCH, SORT</b>
